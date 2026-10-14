@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-14 20:59">
+<yml_catalog date="2026-10-15 03:04">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -25893,7 +25893,7 @@
       </offer>
       <offer id="a8e1ae5c4cd35c7d" available="false">
         <name>Планшет Apple iPad mini 7 128 ГБ Purple, Wi-Fi</name>
-        <price>50200</price>
+        <price>51700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900023</categoryId>
         <vendor>Apple</vendor>
@@ -26843,13 +26843,6 @@
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab2df2f96c98b274" available="false">
-        <name>Планшет Apple iPad Pro 11″ M4 256 ГБ Black, Wi-Fi + Cellular</name>
-        <price>95500</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900025</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a50326df1134e37a" available="false">
         <name>Планшет Apple iPad Pro 11″ M4 512 ГБ Black, Wi-Fi</name>
         <price>110400</price>
@@ -27251,7 +27244,14 @@
       </offer>
       <offer id="a36858ca060cea22" available="false">
         <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 512 ГБ Midnight</name>
-        <price>115100</price>
+        <price>114000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900028</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ade90b0437712769" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 512 ГБ Sky Blue</name>
+        <price>114000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
@@ -27263,16 +27263,9 @@
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ade90b0437712769" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 512 ГБ Sky Blue</name>
-        <price>115100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900028</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="ae6f9b41df798f0e" available="false">
         <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 512 ГБ Starlight</name>
-        <price>116100</price>
+        <price>115100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
