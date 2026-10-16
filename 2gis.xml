@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-16 22:07">
+<yml_catalog date="2026-10-17 04:10">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -27137,16 +27137,16 @@
         <categoryId>900027</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a708591fd062a03f" available="false">
-        <name>Ноутбук Apple MacBook Neo 8 ГБ / 512 ГБ Silver</name>
-        <price>79700</price>
+      <offer id="acd59993f18bbe39" available="false">
+        <name>Ноутбук Apple MacBook Neo 8 ГБ / 512 ГБ Blush</name>
+        <price>79500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900027</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="acd59993f18bbe39" available="false">
-        <name>Ноутбук Apple MacBook Neo 8 ГБ / 512 ГБ Blush</name>
-        <price>81200</price>
+      <offer id="a708591fd062a03f" available="false">
+        <name>Ноутбук Apple MacBook Neo 8 ГБ / 512 ГБ Silver</name>
+        <price>79700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900027</categoryId>
         <vendor>Apple</vendor>
@@ -27263,16 +27263,16 @@
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a408b047617c81b6" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Starlight</name>
+      <offer id="a6feab83addfcce7" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Sky Blue</name>
         <price>157200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a6feab83addfcce7" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Sky Blue</name>
-        <price>159700</price>
+      <offer id="a408b047617c81b6" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Starlight</name>
+        <price>157200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
@@ -27447,7 +27447,7 @@
       </offer>
       <offer id="a62e62786f2215c7" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 16 ГБ / 512 ГБ Sky Blue</name>
-        <price>135200</price>
+        <price>133300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
@@ -28141,13 +28141,6 @@
       <offer id="aea6d6391816f766" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Space Black, русская клавиатура</name>
         <price>601000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900031</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="aa24633f64931388" available="false">
-        <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 4 ТБ Silver, русская клавиатура</name>
-        <price>693700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
