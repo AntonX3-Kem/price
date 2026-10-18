@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18 18:44">
+<yml_catalog date="2026-10-19 00:47">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24736,16 +24736,16 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ada22ae6fabccb70" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
+      <offer id="af93cb10fbcfd9ed" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
         <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="af93cb10fbcfd9ed" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
-        <price>78200</price>
+      <offer id="ada22ae6fabccb70" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
+        <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24771,16 +24771,16 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab7abafef685a411" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ White, eSIM</name>
+      <offer id="a0f762a12fb36f61" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
         <price>79500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a0f762a12fb36f61" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
-        <price>79700</price>
+      <offer id="ab7abafef685a411" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ White, eSIM</name>
+        <price>79500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -25991,7 +25991,7 @@
       </offer>
       <offer id="a5cbc2fc573ed715" available="false">
         <name>Планшет Apple iPad Air 11″ M2 128 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>60700</price>
+        <price>67100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -26038,23 +26038,23 @@
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab3fe7a8b95964b9" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
-        <price>80900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="addad4f2108f3f9b" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Gray, Wi-Fi + Cellular</name>
-        <price>81400</price>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a32917e6e04be036" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
-        <price>81400</price>
+        <price>80900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ab3fe7a8b95964b9" available="false">
+        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -26334,20 +26334,20 @@
       </offer>
       <offer id="a9147b97c58c2455" available="false">
         <name>Планшет Apple iPad Air 13″ M3 128 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>81100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a20cca23e090aea4" available="false">
-        <name>Планшет Apple iPad Air 13″ M3 128 ГБ Starlight, Wi-Fi + Cellular</name>
-        <price>81100</price>
+        <price>85400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a0bc88f43bc5204a" available="false">
         <name>Планшет Apple iPad Air 13″ M3 128 ГБ Gray, Wi-Fi + Cellular</name>
+        <price>85400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a20cca23e090aea4" available="false">
+        <name>Планшет Apple iPad Air 13″ M3 128 ГБ Starlight, Wi-Fi + Cellular</name>
         <price>85400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
@@ -27132,20 +27132,20 @@
       </offer>
       <offer id="af280ea5903e5d6b" available="false">
         <name>Ноутбук Apple MacBook Neo 8 ГБ / 256 ГБ Indigo</name>
-        <price>69200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900027</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a3464d99722845e9" available="false">
-        <name>Ноутбук Apple MacBook Neo 8 ГБ / 256 ГБ Blush</name>
-        <price>71200</price>
+        <price>68600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900027</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a2531271143cc23f" available="false">
         <name>Ноутбук Apple MacBook Neo 8 ГБ / 256 ГБ Silver</name>
+        <price>69600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900027</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a3464d99722845e9" available="false">
+        <name>Ноутбук Apple MacBook Neo 8 ГБ / 256 ГБ Blush</name>
         <price>71200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900027</categoryId>
@@ -27167,7 +27167,7 @@
       </offer>
       <offer id="a708591fd062a03f" available="false">
         <name>Ноутбук Apple MacBook Neo 8 ГБ / 512 ГБ Silver</name>
-        <price>78700</price>
+        <price>78500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900027</categoryId>
         <vendor>Apple</vendor>
