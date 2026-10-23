@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 01:07">
+<yml_catalog date="2026-10-23 07:10">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24339,7 +24339,7 @@
       </offer>
       <offer id="a32c2c5ac6e2b0b6" available="false">
         <name>Смартфон Apple iPhone 16e 512 ГБ Black, SIM + eSIM</name>
-        <price>62300</price>
+        <price>61500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
@@ -25632,6 +25632,13 @@
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a75ec1f1f2f439b6" available="false">
+        <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Glacier, SIM + eSIM</name>
+        <price>213800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900020</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a858011544248b36" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Black, SIM + eSIM</name>
         <price>214900</price>
@@ -25639,16 +25646,9 @@
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a75ec1f1f2f439b6" available="false">
-        <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Glacier, SIM + eSIM</name>
-        <price>214900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900020</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="af317312ebc77a13" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Burgundy, SIM + eSIM</name>
-        <price>224800</price>
+        <price>223700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25711,7 +25711,7 @@
       </offer>
       <offer id="a1368301542b8171" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Burgundy, SIM + eSIM</name>
-        <price>296500</price>
+        <price>295000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -27517,14 +27517,14 @@
       </offer>
       <offer id="a17210b616577d43" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 16 ГБ / 512 ГБ Starlight</name>
-        <price>144000</price>
+        <price>138600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a5cd7e021a2f8a3f" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 16 ГБ / 512 ГБ Silver</name>
-        <price>146200</price>
+        <price>145500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
@@ -27552,7 +27552,7 @@
       </offer>
       <offer id="a23bb9078c442b9c" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 16 ГБ / 1 ТБ Silver</name>
-        <price>190900</price>
+        <price>177800</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
@@ -27573,21 +27573,14 @@
       </offer>
       <offer id="acb4022f16fb07c4" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Starlight</name>
-        <price>194200</price>
+        <price>190400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a6e567d2febfed71" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Midnight</name>
-        <price>194700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900029</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a721045ef37a7cea" available="false">
-        <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Sky Blue</name>
-        <price>194700</price>
+        <price>192000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
