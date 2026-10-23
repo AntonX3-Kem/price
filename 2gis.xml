@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 14:02">
+<yml_catalog date="2026-10-23 20:06">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24302,13 +24302,6 @@
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a8d3fa647af7518d" available="false">
-        <name>Смартфон Apple iPhone 16e 128 ГБ White, eSIM</name>
-        <price>50300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900009</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a698fe99eb59de9c" available="false">
         <name>Смартфон Apple iPhone 16e 256 ГБ White, 2 SIM</name>
         <price>49700</price>
@@ -26019,7 +26012,7 @@
       </offer>
       <offer id="a5cbc2fc573ed715" available="false">
         <name>Планшет Apple iPad Air 11″ M2 128 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>67100</price>
+        <price>60700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -26066,23 +26059,23 @@
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="ab3fe7a8b95964b9" available="false">
+        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
+        <price>80900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="addad4f2108f3f9b" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Gray, Wi-Fi + Cellular</name>
-        <price>80900</price>
+        <price>81400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a32917e6e04be036" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
-        <price>80900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ab3fe7a8b95964b9" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
-        <price>80900</price>
+        <price>81400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -27013,7 +27006,7 @@
       </offer>
       <offer id="a34099a4246f5e04" available="false">
         <name>Планшет Apple iPad Pro 11″ M5 512 ГБ Black, Wi-Fi</name>
-        <price>126300</price>
+        <price>129200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
@@ -27564,23 +27557,23 @@
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a6e567d2febfed71" available="false">
+        <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Midnight</name>
+        <price>192000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900029</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a721045ef37a7cea" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Sky Blue</name>
-        <price>190400</price>
+        <price>192500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="acb4022f16fb07c4" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Starlight</name>
-        <price>190400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900029</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a6e567d2febfed71" available="false">
-        <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Midnight</name>
-        <price>192000</price>
+        <price>192500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
@@ -28460,13 +28453,6 @@
         <categoryId>900036</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a31b06e4e978475a" available="false">
-        <name>Смарт-часы Apple Watch Series 11 42 мм Jet Black, Black Sport Band S/M</name>
-        <price>32900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900036</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a430c0e00bc43d5e" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Rose Gold, Light Blush Sport Band S/M</name>
         <price>32900</price>
@@ -28477,6 +28463,13 @@
       <offer id="a1cc4bcf680ca2f1" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band S/M</name>
         <price>33200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900036</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a31b06e4e978475a" available="false">
+        <name>Смарт-часы Apple Watch Series 11 42 мм Jet Black, Black Sport Band S/M</name>
+        <price>34000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900036</categoryId>
         <vendor>Apple</vendor>
@@ -29015,7 +29008,7 @@
       </offer>
       <offer id="a0b083eb84f38c1b" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Cel Trail Loop S/M</name>
-        <price>78100</price>
+        <price>77000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900040</categoryId>
         <vendor>Apple</vendor>
