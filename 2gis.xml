@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-25 01:36">
+<yml_catalog date="2026-10-25 07:39">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -25571,7 +25571,14 @@
       </offer>
       <offer id="a609af70acc2f7f4" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Black, SIM + eSIM</name>
-        <price>164100</price>
+        <price>163300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900020</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a9ab4b5ffd85c670" available="false">
+        <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Burgundy, SIM + eSIM</name>
+        <price>166300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25579,13 +25586,6 @@
       <offer id="af0bd5b7cd1c1642" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Burgundy, eSIM</name>
         <price>166300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900020</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a9ab4b5ffd85c670" available="false">
-        <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Burgundy, SIM + eSIM</name>
-        <price>167100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -28224,7 +28224,14 @@
       </offer>
       <offer id="af0ff418c3926059" available="false">
         <name>Смарт-часы Apple Watch SE 3 40 мм Starlight, Sport Band S/M</name>
-        <price>24600</price>
+        <price>24200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900033</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a1acdf7e3f62595c" available="false">
+        <name>Смарт-часы Apple Watch SE 3 40 мм Starlight, Sport Band S/M, 2026</name>
+        <price>24700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900033</categoryId>
         <vendor>Apple</vendor>
@@ -28243,16 +28250,9 @@
         <categoryId>900033</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a1acdf7e3f62595c" available="false">
-        <name>Смарт-часы Apple Watch SE 3 40 мм Starlight, Sport Band S/M, 2026</name>
-        <price>25300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900033</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="ad2cb2db14440e4b" available="false">
         <name>Смарт-часы Apple Watch SE 3 40 мм Starlight, Sport Band M/L, 2026</name>
-        <price>26300</price>
+        <price>26000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900033</categoryId>
         <vendor>Apple</vendor>
