@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-25 15:45">
+<yml_catalog date="2026-10-25 21:50">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24498,6 +24498,13 @@
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a32dd76b8ba09d40" available="false">
+        <name>Смартфон Apple iPhone 16 Pro 128 ГБ Black, eSIM</name>
+        <price>96700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900012</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a09202adf62eb9a6" available="false">
         <name>Смартфон Apple iPhone 16 Pro 256 ГБ Desert, eSIM</name>
         <price>95000</price>
@@ -25452,7 +25459,7 @@
       </offer>
       <offer id="a9cd1eb230bf14ac" available="false">
         <name>Смартфон Apple iPhone 18 Pro 2 ТБ Black, SIM + eSIM</name>
-        <price>262300</price>
+        <price>261300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25508,7 +25515,7 @@
       </offer>
       <offer id="aee1bf3a17a8ac6b" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Burgundy, eSIM</name>
-        <price>140200</price>
+        <price>139500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25998,7 +26005,7 @@
       </offer>
       <offer id="a5cbc2fc573ed715" available="false">
         <name>Планшет Apple iPad Air 11″ M2 128 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>60700</price>
+        <price>67100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -26045,23 +26052,23 @@
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab3fe7a8b95964b9" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
-        <price>80900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="addad4f2108f3f9b" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Gray, Wi-Fi + Cellular</name>
-        <price>81400</price>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a32917e6e04be036" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
-        <price>81400</price>
+        <price>80900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ab3fe7a8b95964b9" available="false">
+        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Starlight, Wi-Fi + Cellular</name>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -27034,14 +27041,14 @@
       </offer>
       <offer id="ad7648aa34cea8ab" available="false">
         <name>Планшет Apple iPad Pro 13″ M5 256 ГБ Silver, Wi-Fi</name>
-        <price>128500</price>
+        <price>127400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a20b9f7df1a20d7b" available="false">
         <name>Планшет Apple iPad Pro 13″ M5 256 ГБ Silver, Wi-Fi + Cellular</name>
-        <price>135600</price>
+        <price>134500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
@@ -27088,16 +27095,30 @@
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a04c08709fa3fba1" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular, нанотекстурное стекло</name>
-        <price>167700</price>
+      <offer id="a14d70a8127f18b3" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi + Cellular</name>
+        <price>171000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a14d70a8127f18b3" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi + Cellular</name>
-        <price>171000</price>
+      <offer id="a6f1e6bd169eb172" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular</name>
+        <price>174300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900025</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a04c08709fa3fba1" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular, нанотекстурное стекло</name>
+        <price>174300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900025</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a443844dc10ebd84" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi + Cellular, нанотекстурное стекло</name>
+        <price>176400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
