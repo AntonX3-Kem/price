@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-27 20:05">
+<yml_catalog date="2026-10-28 02:11">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -28832,6 +28832,13 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="aaff8f9c44172349" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Translucent Black Ocean Band</name>
+        <price>73200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900041</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="ae25323a9d6ff755" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Cel Alpine Loop L</name>
         <price>73600</price>
@@ -28841,6 +28848,13 @@
       </offer>
       <offer id="acafcb72fc923890" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Cel Alpine Loop M</name>
+        <price>73600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900041</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ad0b1cbac31d147e" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Desert Alpine Loop L</name>
         <price>73600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
@@ -28874,16 +28888,9 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aaff8f9c44172349" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Translucent Black Ocean Band</name>
-        <price>76900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900041</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a70211d83fc920bd" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Translucent Gray Ocean Band</name>
-        <price>76900</price>
+        <price>76500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
@@ -28895,16 +28902,16 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="afd34188b5f4327e" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Sand Trail Loop S/M</name>
-        <price>78700</price>
+      <offer id="a79f511940cee3a3" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Sand Trail Loop M/L</name>
+        <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a859791a5b32946a" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Translucent Black Ocean Band</name>
-        <price>82500</price>
+      <offer id="afd34188b5f4327e" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Sand Trail Loop S/M</name>
+        <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
@@ -28918,28 +28925,28 @@
       </offer>
       <offer id="a475bcaa938d084d" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Milanese Loop L</name>
-        <price>97800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900041</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a5008c6582309023" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Milanese Loop L</name>
-        <price>97800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900041</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a4b0280063c9cfec" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Milanese Loop M</name>
-        <price>97800</price>
+        <price>93900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a2a278001ac49952" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Milanese Loop S</name>
-        <price>98300</price>
+        <price>93900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900041</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a5008c6582309023" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Milanese Loop L</name>
+        <price>95600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900041</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a4b0280063c9cfec" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Natural, Milanese Loop M</name>
+        <price>95600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
