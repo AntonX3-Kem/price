@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30 06:17">
+<yml_catalog date="2026-10-30 12:20">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -25285,14 +25285,14 @@
       </offer>
       <offer id="a9abe8ffa08c3b17" available="false">
         <name>Смартфон Apple iPhone 18 Pro 1 ТБ Black, eSIM</name>
-        <price>171100</price>
+        <price>170200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a6bd28b23fe62f05" available="false">
         <name>Смартфон Apple iPhone 18 Pro 1 ТБ Glacier, eSIM</name>
-        <price>171100</price>
+        <price>170200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25516,14 +25516,14 @@
       </offer>
       <offer id="a6193676d34e789e" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Black, eSIM</name>
-        <price>201900</price>
+        <price>200900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a57cf482a5c7f60e" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Glacier, eSIM</name>
-        <price>201900</price>
+        <price>200900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25537,7 +25537,7 @@
       </offer>
       <offer id="ad6481ef84ae6445" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Silver, eSIM</name>
-        <price>203900</price>
+        <price>202900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
