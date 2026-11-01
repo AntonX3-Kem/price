@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-01 18:57">
+<yml_catalog date="2026-11-02 01:02">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24837,7 +24837,7 @@
       </offer>
       <offer id="a9c4a778c0510f08" available="false">
         <name>Смартфон Apple iPhone Air 512 ГБ White, eSIM</name>
-        <price>93500</price>
+        <price>94700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -25880,7 +25880,7 @@
       </offer>
       <offer id="a5cbc2fc573ed715" available="false">
         <name>Планшет Apple iPad Air 11″ M2 128 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>60700</price>
+        <price>63400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -25895,13 +25895,6 @@
       <offer id="a58475216cf2f1d4" available="false">
         <name>Планшет Apple iPad Air 11″ M2 128 ГБ Starlight, Wi-Fi + Cellular</name>
         <price>63400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a4871189e1790262" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 256 ГБ Purple, Wi-Fi + Cellular</name>
-        <price>71600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -25929,14 +25922,7 @@
       </offer>
       <offer id="addad4f2108f3f9b" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Gray, Wi-Fi + Cellular</name>
-        <price>80900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a32917e6e04be036" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
-        <price>80900</price>
+        <price>78700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -25950,6 +25936,13 @@
       </offer>
       <offer id="a4a4345c02a5889d" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Blue, Wi-Fi + Cellular</name>
+        <price>81400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a32917e6e04be036" available="false">
+        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
         <price>81400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
