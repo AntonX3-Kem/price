@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-02 07:16">
+<yml_catalog date="2026-11-02 13:19">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24177,6 +24177,13 @@
         <categoryId>900006</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a7f080402719f537" available="false">
+        <name>Смартфон Apple iPhone 15 Pro 128 ГБ Black, eSIM</name>
+        <price>77300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900007</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a1ee353227b17859" available="false">
         <name>Смартфон Apple iPhone 15 Pro 128 ГБ Natural, eSIM</name>
         <price>77300</price>
@@ -24207,13 +24214,6 @@
       </offer>
       <offer id="ae5c43818ea86802" available="false">
         <name>Смартфон Apple iPhone 15 Pro Max 256 ГБ Blue, eSIM</name>
-        <price>86900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900008</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ac4f63d26d988707" available="false">
-        <name>Смартфон Apple iPhone 15 Pro Max 256 ГБ Natural, eSIM</name>
         <price>86900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900008</categoryId>
@@ -27390,13 +27390,6 @@
         <categoryId>900029</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aae4ac89846ce542" available="false">
-        <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 512 ГБ Midnight</name>
-        <price>164200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900029</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a6e567d2febfed71" available="false">
         <name>Ноутбук Apple MacBook Air 15″ M5 24 ГБ / 1 ТБ Midnight</name>
         <price>183000</price>
@@ -27747,30 +27740,23 @@
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aec3c354de7c70c7" available="false">
-        <name>Ноутбук Apple MacBook Pro 14″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Space Black</name>
-        <price>475700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900031</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a1303bd763f0662a" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Silver</name>
-        <price>476800</price>
+        <price>475200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a2f9e9f79a696b41" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Silver, нанотекстурное стекло</name>
-        <price>495300</price>
+        <price>493700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a809ae8d2d0aa453" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Space Black, нанотекстурное стекло</name>
-        <price>495300</price>
+        <price>493700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
@@ -27805,7 +27791,7 @@
       </offer>
       <offer id="ac76d7fa5e370fa0" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 2 ТБ Space Black, нанотекстурное стекло</name>
-        <price>677300</price>
+        <price>675200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
@@ -27980,14 +27966,14 @@
       </offer>
       <offer id="a238266b5130ad57" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Space Black, нанотекстурное стекло</name>
-        <price>509500</price>
+        <price>508400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="adff56d586a0fb23" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 64 ГБ / 2 ТБ Silver, нанотекстурное стекло</name>
-        <price>533500</price>
+        <price>532900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
@@ -28008,7 +27994,7 @@
       </offer>
       <offer id="a8de433e684996e0" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 2 ТБ Space Black</name>
-        <price>653400</price>
+        <price>652300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
@@ -28097,15 +28083,15 @@
         <categoryId>900034</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a339307e48563af9" available="false">
-        <name>Смарт-часы Apple Watch SE 3 40 мм Navy, Blue Midnight Sport Band S/M</name>
-        <price>24200</price>
+      <offer id="a15743566b356b23" available="false">
+        <name>Смарт-часы Apple Watch SE 3 40 мм Sand, Starlight Sport Band S/M</name>
+        <price>23600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900034</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a15743566b356b23" available="false">
-        <name>Смарт-часы Apple Watch SE 3 40 мм Sand, Starlight Sport Band S/M</name>
+      <offer id="a339307e48563af9" available="false">
+        <name>Смарт-часы Apple Watch SE 3 40 мм Navy, Blue Midnight Sport Band S/M</name>
         <price>24200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900034</categoryId>
@@ -28834,7 +28820,7 @@
       </offer>
       <offer id="a6ffdea213ff8d8d" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Ocean Band</name>
-        <price>71100</price>
+        <price>71600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
