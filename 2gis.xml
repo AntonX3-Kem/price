@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-07 14:49">
+<yml_catalog date="2026-11-07 21:08">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24380,13 +24380,6 @@
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ac34f89e5370749d" available="false">
-        <name>Смартфон Apple iPhone 16 Pro 128 ГБ Natural, eSIM</name>
-        <price>82000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900012</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="af38e52d31ecc233" available="false">
         <name>Смартфон Apple iPhone 16 Pro 128 ГБ White, 2 SIM</name>
         <price>88500</price>
@@ -24625,13 +24618,6 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="af93cb10fbcfd9ed" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
-        <price>75900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a9a6d6df592c7b38" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Black, SIM + eSIM</name>
         <price>76200</price>
@@ -24639,16 +24625,9 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a92154a87734838c" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
-        <price>76400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a0f762a12fb36f61" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
-        <price>76600</price>
+      <offer id="af93cb10fbcfd9ed" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
+        <price>76200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24656,6 +24635,20 @@
       <offer id="a2843d0e8be8ca7b" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Sage, eSIM</name>
         <price>76600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a0f762a12fb36f61" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
+        <price>76700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a92154a87734838c" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
+        <price>76700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -26858,16 +26851,23 @@
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aabdedd9f01d5011" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi, нанотекстурное стекло</name>
-        <price>164400</price>
+      <offer id="a89acb34b48de557" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi, нанотекстурное стекло</name>
+        <price>165500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a89acb34b48de557" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi, нанотекстурное стекло</name>
-        <price>165500</price>
+      <offer id="aabdedd9f01d5011" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi, нанотекстурное стекло</name>
+        <price>166600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900025</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a6f1e6bd169eb172" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular</name>
+        <price>167700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
@@ -26879,13 +26879,6 @@
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a6f1e6bd169eb172" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular</name>
-        <price>172100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900025</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a04c08709fa3fba1" available="false">
         <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Black, Wi-Fi + Cellular, нанотекстурное стекло</name>
         <price>174300</price>
@@ -26893,16 +26886,16 @@
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a443844dc10ebd84" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 1 ТБ Silver, Wi-Fi + Cellular, нанотекстурное стекло</name>
-        <price>175300</price>
+      <offer id="adc522eeb03883b0" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 2 ТБ Black, Wi-Fi + Cellular</name>
+        <price>173200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="adc522eeb03883b0" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 2 ТБ Black, Wi-Fi + Cellular</name>
-        <price>169900</price>
+      <offer id="a0d3cd204c5fe1a1" available="false">
+        <name>Планшет Apple iPad Pro 13″ M5 2 ТБ Black, Wi-Fi + Cellular, нанотекстурное стекло</name>
+        <price>186200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
@@ -26910,13 +26903,6 @@
       <offer id="a055d8c13b1253d2" available="false">
         <name>Планшет Apple iPad Pro 13″ M5 2 ТБ Silver, Wi-Fi + Cellular</name>
         <price>186200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900025</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a0d3cd204c5fe1a1" available="false">
-        <name>Планшет Apple iPad Pro 13″ M5 2 ТБ Black, Wi-Fi + Cellular, нанотекстурное стекло</name>
-        <price>191700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900025</categoryId>
         <vendor>Apple</vendor>
@@ -27854,14 +27840,14 @@
       </offer>
       <offer id="ae5e6089e02f2c4e" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Pro (18 CPU, 20 GPU) 48 ГБ / 1 ТБ Space Black</name>
-        <price>332600</price>
+        <price>334300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a0f7b7f92e4c0bcf" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Pro (18 CPU, 20 GPU) 48 ГБ / 1 ТБ Silver</name>
-        <price>343500</price>
+        <price>345200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
@@ -28729,7 +28715,7 @@
       </offer>
       <offer id="aaff8f9c44172349" available="false">
         <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Translucent Black Ocean Band</name>
-        <price>72100</price>
+        <price>72700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
