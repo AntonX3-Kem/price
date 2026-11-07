@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-07 21:08">
+<yml_catalog date="2026-11-08 03:11">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24116,7 +24116,7 @@
       </offer>
       <offer id="a90fc47c7c05b6d0" available="false">
         <name>Смартфон Apple iPhone 15 128 ГБ Green, SIM + eSIM</name>
-        <price>60200</price>
+        <price>59900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900005</categoryId>
         <vendor>Apple</vendor>
@@ -24548,15 +24548,15 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a160dcf77e7aa7d5" available="false">
-        <name>Смартфон Apple iPhone 17e 256 ГБ Pink, SIM + eSIM</name>
-        <price>66600</price>
+      <offer id="a4ebef6f9d8907ae" available="false">
+        <name>Смартфон Apple iPhone 17e 256 ГБ Pink, 2 SIM</name>
+        <price>66300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a4ebef6f9d8907ae" available="false">
-        <name>Смартфон Apple iPhone 17e 256 ГБ Pink, 2 SIM</name>
+      <offer id="a160dcf77e7aa7d5" available="false">
+        <name>Смартфон Apple iPhone 17e 256 ГБ Pink, SIM + eSIM</name>
         <price>66600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900014</categoryId>
@@ -24632,16 +24632,16 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a2843d0e8be8ca7b" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Sage, eSIM</name>
+      <offer id="a0f762a12fb36f61" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
         <price>76600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a0f762a12fb36f61" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
-        <price>76700</price>
+      <offer id="a2843d0e8be8ca7b" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Sage, eSIM</name>
+        <price>76600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24795,7 +24795,7 @@
       </offer>
       <offer id="a9c4a778c0510f08" available="false">
         <name>Смартфон Apple iPhone Air 512 ГБ White, eSIM</name>
-        <price>94700</price>
+        <price>95700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -24926,16 +24926,16 @@
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aa02fd4d2ffba279" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Orange, SIM + eSIM</name>
-        <price>136300</price>
+      <offer id="a09bcc3a47f027f8" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Silver, eSIM</name>
+        <price>135200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a09bcc3a47f027f8" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Silver, eSIM</name>
-        <price>138200</price>
+      <offer id="aa02fd4d2ffba279" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Orange, SIM + eSIM</name>
+        <price>136300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24963,7 +24963,7 @@
       </offer>
       <offer id="a704c0d0875f6464" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 256 ГБ Blue, eSIM</name>
-        <price>103400</price>
+        <price>102900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25859,7 +25859,14 @@
       </offer>
       <offer id="addad4f2108f3f9b" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Gray, Wi-Fi + Cellular</name>
-        <price>78700</price>
+        <price>80900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900024</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a32917e6e04be036" available="false">
+        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
         <vendor>Apple</vendor>
@@ -25873,13 +25880,6 @@
       </offer>
       <offer id="a4a4345c02a5889d" available="false">
         <name>Планшет Apple iPad Air 11″ M2 512 ГБ Blue, Wi-Fi + Cellular</name>
-        <price>81400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900024</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a32917e6e04be036" available="false">
-        <name>Планшет Apple iPad Air 11″ M2 512 ГБ Purple, Wi-Fi + Cellular</name>
         <price>81400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900024</categoryId>
