@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-08 18:26">
+<yml_catalog date="2026-11-09 00:29">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24205,6 +24205,13 @@
         <categoryId>900008</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a3e81b42b7cd05ab" available="false">
+        <name>Смартфон Apple iPhone 15 Pro Max 1 ТБ Black, 2 SIM, 361 цикл</name>
+        <price>77000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900008</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a669492c9bf30393" available="false">
         <name>Смартфон Apple iPhone 16e 128 ГБ Black, eSIM</name>
         <price>47200</price>
@@ -27033,37 +27040,30 @@
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a33c73e213e1a725" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Midnight</name>
-        <price>133700</price>
+      <offer id="a16044a3f7656e10" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Sky Blue</name>
+        <price>136700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a16044a3f7656e10" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Sky Blue</name>
-        <price>133700</price>
+      <offer id="a33c73e213e1a725" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Midnight</name>
+        <price>139700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="ad0070e288e5a843" available="false">
         <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Starlight</name>
-        <price>137300</price>
+        <price>139700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a00f339e5dd44f10" available="false">
         <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Silver</name>
-        <price>139200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900028</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a5e7c5a5a5ae3b18" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Silver</name>
-        <price>152700</price>
+        <price>148700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
@@ -27085,6 +27085,13 @@
       <offer id="a408b047617c81b6" available="false">
         <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Starlight</name>
         <price>158100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900028</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a5e7c5a5a5ae3b18" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 24 ГБ / 1 ТБ Silver</name>
+        <price>159200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
