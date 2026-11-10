@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-10 19:08">
+<yml_catalog date="2026-11-11 01:16">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24191,9 +24191,16 @@
         <categoryId>900007</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a800e310a0bccbca" available="false">
+        <name>Смартфон Apple iPhone 15 Pro Max 256 ГБ Blue, SIM + eSIM</name>
+        <price>93900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900008</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a365ae002bd516df" available="false">
         <name>Смартфон Apple iPhone 15 Pro Max 256 ГБ Natural, SIM + eSIM</name>
-        <price>93900</price>
+        <price>107600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900008</categoryId>
         <vendor>Apple</vendor>
@@ -24275,15 +24282,15 @@
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab46f4cdd16f7643" available="false">
-        <name>Смартфон Apple iPhone 16 128 ГБ Pink, eSIM</name>
-        <price>65300</price>
+      <offer id="afa4d5408e1cda76" available="false">
+        <name>Смартфон Apple iPhone 16 128 ГБ Black, eSIM</name>
+        <price>65600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="afa4d5408e1cda76" available="false">
-        <name>Смартфон Apple iPhone 16 128 ГБ Black, eSIM</name>
+      <offer id="ab46f4cdd16f7643" available="false">
+        <name>Смартфон Apple iPhone 16 128 ГБ Pink, eSIM</name>
         <price>65600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
@@ -25600,7 +25607,7 @@
       </offer>
       <offer id="abb7ab791441273b" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Silver, SIM + eSIM</name>
-        <price>257600</price>
+        <price>275700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
