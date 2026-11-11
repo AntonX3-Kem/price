@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-11 01:16">
+<yml_catalog date="2026-11-11 10:24">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -29002,7 +29002,7 @@
       </offer>
       <offer id="abf3f9fb0509eed6" available="false">
         <name>Наушники Apple AirPods 4 с шумоподавлением</name>
-        <price>11800</price>
+        <price>11900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900042</categoryId>
         <vendor>Apple</vendor>
@@ -29028,6 +29028,13 @@
         <categoryId>900042</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a7fa7ecacb28afba" available="false">
+        <name>Наушники Apple AirPods Max (USB-C) Midnight</name>
+        <price>41500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900042</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a7576a758ad8cc8e" available="false">
         <name>Наушники Apple AirPods Max (USB-C) Orange</name>
         <price>41500</price>
@@ -29044,13 +29051,6 @@
       </offer>
       <offer id="a4276f1e4c353c85" available="false">
         <name>Наушники Apple AirPods Max (USB-C) Blue</name>
-        <price>41700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900042</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a7fa7ecacb28afba" available="false">
-        <name>Наушники Apple AirPods Max (USB-C) Midnight</name>
         <price>41700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900042</categoryId>
