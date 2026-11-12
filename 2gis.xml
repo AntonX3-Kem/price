@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 04:55">
+<yml_catalog date="2026-11-12 19:09">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -25348,7 +25348,7 @@
       </offer>
       <offer id="a8fb381fcc22d503" available="false">
         <name>Смартфон Apple iPhone 18 Pro 2 ТБ Glacier, eSIM</name>
-        <price>231800</price>
+        <price>230600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
