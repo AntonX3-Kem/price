@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-14 04:37">
+<yml_catalog date="2026-11-14 12:41">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24179,7 +24179,7 @@
       </offer>
       <offer id="a07db2ea61c98e88" available="false">
         <name>Смартфон Apple iPhone 15 Pro 512 ГБ Natural, SIM + eSIM</name>
-        <price>105400</price>
+        <price>105900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900007</categoryId>
         <vendor>Apple</vendor>
@@ -24361,7 +24361,7 @@
       </offer>
       <offer id="ac20ba7587d45813" available="false">
         <name>Смартфон Apple iPhone 16 Plus 256 ГБ Black, SIM + eSIM</name>
-        <price>80300</price>
+        <price>80900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
@@ -24445,7 +24445,7 @@
       </offer>
       <offer id="a46d3d0c2ffc58f3" available="false">
         <name>Смартфон Apple iPhone 16 Pro 128 ГБ Desert, SIM + eSIM</name>
-        <price>98800</price>
+        <price>101000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
@@ -24508,7 +24508,7 @@
       </offer>
       <offer id="adadf1083c1fd3fa" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 256 ГБ Black, 2 SIM</name>
-        <price>122800</price>
+        <price>123400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -24613,7 +24613,7 @@
       </offer>
       <offer id="a81101198e8d8abf" available="false">
         <name>Смартфон Apple iPhone 17e 512 ГБ Black, eSIM</name>
-        <price>70200</price>
+        <price>70700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
@@ -24653,13 +24653,6 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a92154a87734838c" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
-        <price>75700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="af93cb10fbcfd9ed" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
         <price>76200</price>
@@ -24669,6 +24662,13 @@
       </offer>
       <offer id="a0f762a12fb36f61" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
+        <price>76200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a92154a87734838c" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
         <price>76200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
@@ -24758,13 +24758,6 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a4264667dff9fb1f" available="false">
-        <name>Смартфон Apple iPhone 17 512 ГБ White, eSIM</name>
-        <price>95000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="acf26971851c0be5" available="false">
         <name>Смартфон Apple iPhone 17 512 ГБ Lavender, eSIM</name>
         <price>95500</price>
@@ -24795,7 +24788,7 @@
       </offer>
       <offer id="af15996145b6b50e" available="false">
         <name>Смартфон Apple iPhone 17 512 ГБ Lavender, SIM + eSIM</name>
-        <price>97900</price>
+        <price>96200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24851,7 +24844,7 @@
       </offer>
       <offer id="a9c4a778c0510f08" available="false">
         <name>Смартфон Apple iPhone Air 512 ГБ White, eSIM</name>
-        <price>87200</price>
+        <price>91200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -25537,7 +25530,7 @@
       </offer>
       <offer id="a743189abeb4787f" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Burgundy, eSIM</name>
-        <price>191000</price>
+        <price>192000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25593,7 +25586,7 @@
       </offer>
       <offer id="af2e779f362f9f33" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Glacier, eSIM</name>
-        <price>231200</price>
+        <price>231700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -28974,7 +28967,7 @@
       </offer>
       <offer id="abf3f9fb0509eed6" available="false">
         <name>Наушники Apple AirPods 4 с шумоподавлением</name>
-        <price>11900</price>
+        <price>11800</price>
         <currencyId>RUB</currencyId>
         <categoryId>900042</categoryId>
         <vendor>Apple</vendor>
@@ -29014,15 +29007,15 @@
         <categoryId>900042</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a59493b073bb391b" available="false">
-        <name>Наушники Apple AirPods Max (USB-C) Purple</name>
-        <price>41500</price>
+      <offer id="a4276f1e4c353c85" available="false">
+        <name>Наушники Apple AirPods Max (USB-C) Blue</name>
+        <price>41700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900042</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a4276f1e4c353c85" available="false">
-        <name>Наушники Apple AirPods Max (USB-C) Blue</name>
+      <offer id="a59493b073bb391b" available="false">
+        <name>Наушники Apple AirPods Max (USB-C) Purple</name>
         <price>41700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900042</categoryId>
