@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-16 01:11">
+<yml_catalog date="2026-11-16 13:25">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24165,7 +24165,7 @@
       </offer>
       <offer id="acd065c147570d00" available="false">
         <name>Смартфон Apple iPhone 15 Plus 128 ГБ Pink, SIM + eSIM</name>
-        <price>64600</price>
+        <price>63600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900006</categoryId>
         <vendor>Apple</vendor>
@@ -24214,7 +24214,7 @@
       </offer>
       <offer id="a669492c9bf30393" available="false">
         <name>Смартфон Apple iPhone 16e 128 ГБ Black, eSIM</name>
-        <price>47700</price>
+        <price>47600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
@@ -24228,7 +24228,7 @@
       </offer>
       <offer id="a698fe99eb59de9c" available="false">
         <name>Смартфон Apple iPhone 16e 256 ГБ White, 2 SIM</name>
-        <price>50700</price>
+        <price>52500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
@@ -24249,21 +24249,21 @@
       </offer>
       <offer id="a2fb16992a21ed64" available="false">
         <name>Смартфон Apple iPhone 16 128 ГБ Black, SIM + eSIM</name>
-        <price>64600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900010</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a548c9f91dda6e96" available="false">
-        <name>Смартфон Apple iPhone 16 128 ГБ Pink, SIM + eSIM</name>
-        <price>64600</price>
+        <price>63600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="aa951935497a4091" available="false">
         <name>Смартфон Apple iPhone 16 128 ГБ Teal, SIM + eSIM</name>
-        <price>64600</price>
+        <price>63600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900010</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a446da3bcea5cd96" available="false">
+        <name>Смартфон Apple iPhone 16 128 ГБ White, SIM + eSIM</name>
+        <price>63600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
@@ -24275,15 +24275,15 @@
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a446da3bcea5cd96" available="false">
-        <name>Смартфон Apple iPhone 16 128 ГБ White, SIM + eSIM</name>
-        <price>64600</price>
+      <offer id="afa4d5408e1cda76" available="false">
+        <name>Смартфон Apple iPhone 16 128 ГБ Black, eSIM</name>
+        <price>65100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="afa4d5408e1cda76" available="false">
-        <name>Смартфон Apple iPhone 16 128 ГБ Black, eSIM</name>
+      <offer id="a548c9f91dda6e96" available="false">
+        <name>Смартфон Apple iPhone 16 128 ГБ Pink, SIM + eSIM</name>
         <price>65100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
@@ -24324,6 +24324,13 @@
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="ab14f7ec16317add" available="false">
+        <name>Смартфон Apple iPhone 16 Plus 128 ГБ White, SIM + eSIM</name>
+        <price>71600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900011</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a8e4883c4e6c3761" available="false">
         <name>Смартфон Apple iPhone 16 Plus 128 ГБ Black, SIM + eSIM</name>
         <price>72600</price>
@@ -24340,13 +24347,6 @@
       </offer>
       <offer id="ae824da9b7937e1d" available="false">
         <name>Смартфон Apple iPhone 16 Plus 128 ГБ Ultramarine, SIM + eSIM</name>
-        <price>73600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900011</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ab14f7ec16317add" available="false">
-        <name>Смартфон Apple iPhone 16 Plus 128 ГБ White, SIM + eSIM</name>
         <price>73600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
@@ -24375,35 +24375,35 @@
       </offer>
       <offer id="a0fd7d33dc782004" available="false">
         <name>Смартфон Apple iPhone 16 Plus 256 ГБ Ultramarine, SIM + eSIM</name>
-        <price>82100</price>
+        <price>81100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="afd7bfb97daebaac" available="false">
         <name>Смартфон Apple iPhone 16 Plus 256 ГБ Pink, SIM + eSIM</name>
-        <price>90000</price>
+        <price>89000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a47bc79769388033" available="false">
         <name>Смартфон Apple iPhone 16 Plus 256 ГБ White, SIM + eSIM</name>
-        <price>90000</price>
+        <price>89000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a9697f183aef6af5" available="false">
         <name>Смартфон Apple iPhone 16 Plus 512 ГБ Ultramarine, SIM + eSIM</name>
-        <price>93500</price>
+        <price>92500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a7421b4a747aa479" available="false">
         <name>Смартфон Apple iPhone 16 Plus 512 ГБ White, SIM + eSIM</name>
-        <price>95000</price>
+        <price>94500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
@@ -24443,13 +24443,6 @@
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a15060f69b58a2ac" available="false">
-        <name>Смартфон Apple iPhone 16 Pro 512 ГБ White, SIM + eSIM</name>
-        <price>116800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900012</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="aa159b2704fcd3f1" available="false">
         <name>Смартфон Apple iPhone 16 Pro 512 ГБ Desert, SIM + eSIM</name>
         <price>123400</price>
@@ -24457,16 +24450,23 @@
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a15060f69b58a2ac" available="false">
+        <name>Смартфон Apple iPhone 16 Pro 512 ГБ White, SIM + eSIM</name>
+        <price>127700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900012</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a9c94df34cb05a11" available="false">
         <name>Смартфон Apple iPhone 16 Pro 1 ТБ White, SIM + eSIM</name>
-        <price>128300</price>
+        <price>135900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a6ec6d524b496ab9" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 256 ГБ Natural, eSIM</name>
-        <price>98400</price>
+        <price>97500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -24501,21 +24501,21 @@
       </offer>
       <offer id="ac0aa8b623636cf6" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 512 ГБ Natural, eSIM</name>
-        <price>112400</price>
+        <price>111400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a7e7c75334836b8e" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 512 ГБ Black, eSIM</name>
-        <price>113400</price>
+        <price>112400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a1870b1ee9110ad0" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 512 ГБ White, eSIM</name>
-        <price>113400</price>
+        <price>112400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -24590,16 +24590,9 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a81101198e8d8abf" available="false">
-        <name>Смартфон Apple iPhone 17e 512 ГБ Black, eSIM</name>
-        <price>71200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900014</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a961c6b5dc694abf" available="false">
         <name>Смартфон Apple iPhone 17e 512 ГБ White, eSIM</name>
-        <price>71600</price>
+        <price>70700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
@@ -24607,6 +24600,13 @@
       <offer id="a270c60c0c41adb2" available="false">
         <name>Смартфон Apple iPhone 17e 512 ГБ Pink, eSIM</name>
         <price>73200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900014</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a81101198e8d8abf" available="false">
+        <name>Смартфон Apple iPhone 17e 512 ГБ Black, eSIM</name>
+        <price>73600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
@@ -24632,34 +24632,6 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="af93cb10fbcfd9ed" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
-        <price>75600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a92154a87734838c" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
-        <price>75700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="aa5bf6284bf781d5" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ White, SIM + eSIM</name>
-        <price>75700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a0f762a12fb36f61" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
-        <price>76200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a9a6d6df592c7b38" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Black, SIM + eSIM</name>
         <price>76600</price>
@@ -24667,15 +24639,15 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aae2a4f51bac1773" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Black, eSIM</name>
+      <offer id="af93cb10fbcfd9ed" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, SIM + eSIM</name>
         <price>76600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ada22ae6fabccb70" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
+      <offer id="a0f762a12fb36f61" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Lavender, SIM + eSIM</name>
         <price>76600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
@@ -24688,16 +24660,44 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a92154a87734838c" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
+        <price>76600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="aa5bf6284bf781d5" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ White, SIM + eSIM</name>
+        <price>76600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="aae2a4f51bac1773" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Black, eSIM</name>
+        <price>77600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a2843d0e8be8ca7b" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Sage, eSIM</name>
-        <price>76600</price>
+        <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="ab7abafef685a411" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ White, eSIM</name>
-        <price>76600</price>
+        <price>77600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ada22ae6fabccb70" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
+        <price>78000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24705,13 +24705,6 @@
       <offer id="a575599e9b77ee04" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Lavender, 2 SIM</name>
         <price>82500</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a5b62d8cc8703b96" available="false">
-        <name>Смартфон Apple iPhone 17 512 ГБ Black, SIM + eSIM</name>
-        <price>94500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24726,6 +24719,13 @@
       <offer id="a703e2b66317353b" available="false">
         <name>Смартфон Apple iPhone 17 512 ГБ Black, eSIM</name>
         <price>95000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a5b62d8cc8703b96" available="false">
+        <name>Смартфон Apple iPhone 17 512 ГБ Black, SIM + eSIM</name>
+        <price>95500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -24772,15 +24772,15 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a05b1288b865d895" available="false">
-        <name>Смартфон Apple iPhone Air 256 ГБ Black, eSIM</name>
-        <price>78500</price>
+      <offer id="a490267804ac28dd" available="false">
+        <name>Смартфон Apple iPhone Air 256 ГБ Blue, eSIM</name>
+        <price>77600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a490267804ac28dd" available="false">
-        <name>Смартфон Apple iPhone Air 256 ГБ Blue, eSIM</name>
+      <offer id="a05b1288b865d895" available="false">
+        <name>Смартфон Apple iPhone Air 256 ГБ Black, eSIM</name>
         <price>78500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
@@ -24800,16 +24800,16 @@
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a3969721f87fe840" available="false">
-        <name>Смартфон Apple iPhone Air 512 ГБ Gold, eSIM</name>
-        <price>83500</price>
+      <offer id="a189270941de1b7f" available="false">
+        <name>Смартфон Apple iPhone Air 512 ГБ Blue, eSIM</name>
+        <price>82500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a189270941de1b7f" available="false">
-        <name>Смартфон Apple iPhone Air 512 ГБ Blue, eSIM</name>
-        <price>85100</price>
+      <offer id="a3969721f87fe840" available="false">
+        <name>Смартфон Apple iPhone Air 512 ГБ Gold, eSIM</name>
+        <price>82500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -24828,22 +24828,22 @@
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aebed2bcf08d9eed" available="false">
-        <name>Смартфон Apple iPhone Air 1 ТБ Black, eSIM</name>
-        <price>90500</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900016</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a89995016cbc44b6" available="false">
         <name>Смартфон Apple iPhone Air 1 ТБ Blue, eSIM</name>
-        <price>90500</price>
+        <price>88500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="acb5ba87bd9fcb99" available="false">
         <name>Смартфон Apple iPhone Air 1 ТБ Gold, eSIM</name>
+        <price>89500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900016</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="aebed2bcf08d9eed" available="false">
+        <name>Смартфон Apple iPhone Air 1 ТБ Black, eSIM</name>
         <price>90500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
@@ -24858,7 +24858,7 @@
       </offer>
       <offer id="a3d989fa9a51ef8a" available="false">
         <name>Смартфон Apple iPhone 17 Pro 256 ГБ Orange, eSIM</name>
-        <price>97500</price>
+        <price>96500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24870,16 +24870,16 @@
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a2a8179e4fb42f87" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 256 ГБ Blue, eSIM</name>
-        <price>101400</price>
+      <offer id="a18a2d644ad2571b" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 256 ГБ Silver, eSIM</name>
+        <price>100400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a18a2d644ad2571b" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 256 ГБ Silver, eSIM</name>
-        <price>101400</price>
+      <offer id="a2a8179e4fb42f87" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 256 ГБ Blue, eSIM</name>
+        <price>102400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24914,14 +24914,14 @@
       </offer>
       <offer id="a5a5560cf70d5269" available="false">
         <name>Смартфон Apple iPhone 17 Pro 512 ГБ Silver, eSIM</name>
-        <price>117400</price>
+        <price>116400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a8768f29b4772994" available="false">
         <name>Смартфон Apple iPhone 17 Pro 512 ГБ Orange, SIM + eSIM</name>
-        <price>122300</price>
+        <price>121300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24935,14 +24935,7 @@
       </offer>
       <offer id="a03912ecc663eb1f" available="false">
         <name>Смартфон Apple iPhone 17 Pro 512 ГБ Silver, SIM + eSIM</name>
-        <price>133300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900017</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ad39cb0fd3a1f372" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Orange, eSIM</name>
-        <price>128300</price>
+        <price>130300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24950,6 +24943,13 @@
       <offer id="ae8e8d42487aa4d2" available="false">
         <name>Смартфон Apple iPhone 17 Pro 1 ТБ Blue, eSIM</name>
         <price>131300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900017</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ad39cb0fd3a1f372" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 1 ТБ Orange, eSIM</name>
+        <price>132300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -24963,35 +24963,35 @@
       </offer>
       <offer id="a09bcc3a47f027f8" available="false">
         <name>Смартфон Apple iPhone 17 Pro 1 ТБ Silver, eSIM</name>
-        <price>145200</price>
+        <price>143200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a75cc5eee6302332" available="false">
         <name>Смартфон Apple iPhone 17 Pro 1 ТБ Blue, SIM + eSIM</name>
-        <price>151400</price>
+        <price>150400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a718f0e32c4151cf" available="false">
         <name>Смартфон Apple iPhone 17 Pro 1 ТБ Silver, SIM + eSIM</name>
-        <price>160100</price>
+        <price>159100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a97034098f709e30" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 256 ГБ Orange, eSIM</name>
-        <price>101400</price>
+        <price>100400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a704c0d0875f6464" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 256 ГБ Blue, eSIM</name>
-        <price>104400</price>
+        <price>103400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25012,7 +25012,7 @@
       </offer>
       <offer id="a53ddfd3c621ccb8" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 256 ГБ Blue, SIM + eSIM</name>
-        <price>112400</price>
+        <price>111400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25040,7 +25040,7 @@
       </offer>
       <offer id="a4cb3f55c8b321ec" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 512 ГБ Silver, eSIM</name>
-        <price>122300</price>
+        <price>123300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25061,7 +25061,7 @@
       </offer>
       <offer id="a837eb3aa7f5d4c1" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 512 ГБ Silver, SIM + eSIM</name>
-        <price>150200</price>
+        <price>148200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25089,7 +25089,7 @@
       </offer>
       <offer id="ab73cea093ed74a9" available="false">
         <name>Смартфон Apple iPhone 17 Pro Max 1 ТБ Silver, eSIM</name>
-        <price>145200</price>
+        <price>144200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
@@ -25143,15 +25143,15 @@
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ad779e905577df14" available="false">
-        <name>Смартфон Apple iPhone 17 Pro Max 2 ТБ Blue, SIM + eSIM</name>
-        <price>173100</price>
+      <offer id="ab256b2f4b6beaf5" available="false">
+        <name>Смартфон Apple iPhone 17 Pro Max 2 ТБ Silver, eSIM</name>
+        <price>172100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ab256b2f4b6beaf5" available="false">
-        <name>Смартфон Apple iPhone 17 Pro Max 2 ТБ Silver, eSIM</name>
+      <offer id="ad779e905577df14" available="false">
+        <name>Смартфон Apple iPhone 17 Pro Max 2 ТБ Blue, SIM + eSIM</name>
         <price>173100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900018</categoryId>
@@ -25160,6 +25160,13 @@
       <offer id="a1b99a44451a508f" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Glacier, eSIM</name>
         <price>112400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900019</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="aeda554e623998ef" available="false">
+        <name>Смартфон Apple iPhone 18 Pro 256 ГБ Silver, eSIM</name>
+        <price>113400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25173,13 +25180,6 @@
       </offer>
       <offer id="a8e954c56dac2c60" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Burgundy, eSIM</name>
-        <price>114400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900019</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="aeda554e623998ef" available="false">
-        <name>Смартфон Apple iPhone 18 Pro 256 ГБ Silver, eSIM</name>
         <price>114400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
@@ -25208,7 +25208,7 @@
       </offer>
       <offer id="a22e1234053aab3a" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Burgundy, SIM + eSIM</name>
-        <price>128300</price>
+        <price>127300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25264,7 +25264,7 @@
       </offer>
       <offer id="a8f1a871be695206" available="false">
         <name>Смартфон Apple iPhone 18 Pro 512 ГБ Silver, SIM + eSIM</name>
-        <price>155200</price>
+        <price>157200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25404,7 +25404,7 @@
       </offer>
       <offer id="a5b615ea992d1a73" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Glacier, eSIM</name>
-        <price>130300</price>
+        <price>129300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25502,7 +25502,7 @@
       </offer>
       <offer id="a743189abeb4787f" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Burgundy, eSIM</name>
-        <price>191000</price>
+        <price>190000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25572,28 +25572,28 @@
       </offer>
       <offer id="a25ed602dfd48f93" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Burgundy, eSIM</name>
-        <price>249700</price>
+        <price>256400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a103eb0e0aff45fd" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Glacier, SIM + eSIM</name>
-        <price>253700</price>
+        <price>258600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="abb7ab791441273b" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Silver, SIM + eSIM</name>
-        <price>257600</price>
+        <price>264600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="adea3d320b6e225c" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Black, SIM + eSIM</name>
-        <price>270200</price>
+        <price>271200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
