@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 23:17">
+<yml_catalog date="2026-11-18 05:24">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24799,16 +24799,16 @@
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a5a5560cf70d5269" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 512 ГБ Silver, eSIM</name>
-        <price>119300</price>
+      <offer id="a8768f29b4772994" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 512 ГБ Orange, SIM + eSIM</name>
+        <price>121300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a8768f29b4772994" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 512 ГБ Orange, SIM + eSIM</name>
-        <price>121300</price>
+      <offer id="a5a5560cf70d5269" available="false">
+        <name>Смартфон Apple iPhone 17 Pro 512 ГБ Silver, eSIM</name>
+        <price>122200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
