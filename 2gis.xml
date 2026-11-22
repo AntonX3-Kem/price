@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 12:27">
+<yml_catalog date="2026-11-22 18:30">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24387,13 +24387,6 @@
         <categoryId>900012</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a9c94df34cb05a11" available="false">
-        <name>Смартфон Apple iPhone 16 Pro 1 ТБ White, SIM + eSIM</name>
-        <price>134800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900012</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a6ec6d524b496ab9" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 256 ГБ Natural, eSIM</name>
         <price>97500</price>
@@ -24453,13 +24446,6 @@
       <offer id="abb3d21f58db398c" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 512 ГБ White, 2 SIM</name>
         <price>131000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900013</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a1716656ce133025" available="false">
-        <name>Смартфон Apple iPhone 16 Pro Max 1 ТБ Black, 2 SIM, 365 циклов</name>
-        <price>82500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -24597,13 +24583,6 @@
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ada22ae6fabccb70" available="false">
-        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
-        <price>76600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900015</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="aa5bf6284bf781d5" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ White, SIM + eSIM</name>
         <price>76600</price>
@@ -24621,6 +24600,13 @@
       <offer id="a92154a87734838c" available="false">
         <name>Смартфон Apple iPhone 17 256 ГБ Sage, SIM + eSIM</name>
         <price>77600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="ada22ae6fabccb70" available="false">
+        <name>Смартфон Apple iPhone 17 256 ГБ Blue, eSIM</name>
+        <price>77700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -25600,7 +25586,7 @@
       </offer>
       <offer id="add45654de80c6bc" available="false">
         <name>Планшет Apple iPad 11 512 ГБ Blue, Wi-Fi</name>
-        <price>71600</price>
+        <price>79200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900022</categoryId>
         <vendor>Apple</vendor>
@@ -28174,15 +28160,22 @@
         <categoryId>900037</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="af9808905d0c4df4" available="false">
-        <name>Смарт-часы Apple Watch Series 11 46 мм Rose Gold, Sport Band S/M</name>
-        <price>35600</price>
+      <offer id="ae108fc955abbc1c" available="false">
+        <name>Смарт-часы Apple Watch Series 11 46 мм Silver, Purple Sport Band S/M</name>
+        <price>35300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900037</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="adad71f452995219" available="false">
         <name>Смарт-часы Apple Watch Series 11 46 мм Silver, Purple Sport Band M/L</name>
+        <price>35400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900037</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="af9808905d0c4df4" available="false">
+        <name>Смарт-часы Apple Watch Series 11 46 мм Rose Gold, Sport Band S/M</name>
         <price>35600</price>
         <currencyId>RUB</currencyId>
         <categoryId>900037</categoryId>
@@ -28191,13 +28184,6 @@
       <offer id="a871705f3fac9aac" available="false">
         <name>Смарт-часы Apple Watch Series 11 46 мм Jet Black, Black Sport Band S/M</name>
         <price>36100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900037</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ae108fc955abbc1c" available="false">
-        <name>Смарт-часы Apple Watch Series 11 46 мм Silver, Purple Sport Band S/M</name>
-        <price>36200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900037</categoryId>
         <vendor>Apple</vendor>
