@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-23 00:35">
+<yml_catalog date="2026-11-23 06:37">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24200,14 +24200,14 @@
       </offer>
       <offer id="a45c17fe76b7a3df" available="false">
         <name>Смартфон Apple iPhone 16e 512 ГБ Black, 2 SIM</name>
-        <price>64500</price>
+        <price>63400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a3863a31f396fced" available="false">
         <name>Смартфон Apple iPhone 16e 512 ГБ White, 2 SIM</name>
-        <price>64500</price>
+        <price>63400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900009</categoryId>
         <vendor>Apple</vendor>
@@ -25474,7 +25474,7 @@
       </offer>
       <offer id="adea3d320b6e225c" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 2 ТБ Black, SIM + eSIM</name>
-        <price>270000</price>
+        <price>270500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
