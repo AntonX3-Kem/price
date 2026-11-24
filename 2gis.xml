@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 19:15">
+<yml_catalog date="2026-11-25 01:19">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24107,6 +24107,13 @@
         <categoryId>900005</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a84203748792a8de" available="false">
+        <name>Смартфон Apple iPhone 15 128 ГБ Blue, eSIM</name>
+        <price>57400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900005</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a90fc47c7c05b6d0" available="false">
         <name>Смартфон Apple iPhone 15 128 ГБ Green, SIM + eSIM</name>
         <price>59900</price>
@@ -24138,13 +24145,6 @@
       <offer id="a17eaa939a4cd0e4" available="false">
         <name>Смартфон Apple iPhone 15 512 ГБ Green, SIM + eSIM</name>
         <price>79100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900005</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="aaf93574fc985439" available="false">
-        <name>Смартфон Apple iPhone 15 512 ГБ Blue, SIM + eSIM</name>
-        <price>79200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900005</categoryId>
         <vendor>Apple</vendor>
@@ -24817,13 +24817,6 @@
       <offer id="a72edc9d1229d8ac" available="false">
         <name>Смартфон Apple iPhone 17 Pro 512 ГБ Blue, SIM + eSIM</name>
         <price>130300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900017</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a03912ecc663eb1f" available="false">
-        <name>Смартфон Apple iPhone 17 Pro 512 ГБ Silver, SIM + eSIM</name>
-        <price>132300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900017</categoryId>
         <vendor>Apple</vendor>
@@ -28363,6 +28356,13 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="abc23f1a0cc9a938" available="false">
+        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Natural Cel Milanese Loop S/M</name>
+        <price>39400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900038</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a9c0a37b1a9c434d" available="false">
         <name>Смарт-часы Apple Watch Series 12 46 мм Space Gray, Navy Blue Sport Band M/L</name>
         <price>42100</price>
@@ -28478,13 +28478,6 @@
       <offer id="a0e0fd5085ef4a06" available="false">
         <name>Смарт-часы Apple Watch Series 12 46 мм Gold, Gold Cel Milanese Loop S/M</name>
         <price>90700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900038</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="abc23f1a0cc9a938" available="false">
-        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Natural Cel Milanese Loop S/M</name>
-        <price>93900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
