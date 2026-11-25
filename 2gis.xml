@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-25 12:25">
+<yml_catalog date="2026-11-25 18:37">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24263,7 +24263,7 @@
       </offer>
       <offer id="a3bfc8d3f14411bb" available="false">
         <name>Смартфон Apple iPhone 16 256 ГБ Pink, SIM + eSIM</name>
-        <price>85800</price>
+        <price>86900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900010</categoryId>
         <vendor>Apple</vendor>
@@ -24289,13 +24289,6 @@
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="aaa8ed8f9a31c0f9" available="false">
-        <name>Смартфон Apple iPhone 16 Plus 128 ГБ Pink, SIM + eSIM</name>
-        <price>71600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900011</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a99b8bfa9ca6b0b9" available="false">
         <name>Смартфон Apple iPhone 16 Plus 128 ГБ Teal, SIM + eSIM</name>
         <price>71600</price>
@@ -24313,6 +24306,13 @@
       <offer id="ab14f7ec16317add" available="false">
         <name>Смартфон Apple iPhone 16 Plus 128 ГБ White, SIM + eSIM</name>
         <price>71600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900011</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="aaa8ed8f9a31c0f9" available="false">
+        <name>Смартфон Apple iPhone 16 Plus 128 ГБ Pink, SIM + eSIM</name>
+        <price>71700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
@@ -24347,7 +24347,7 @@
       </offer>
       <offer id="afd7bfb97daebaac" available="false">
         <name>Смартфон Apple iPhone 16 Plus 256 ГБ Pink, SIM + eSIM</name>
-        <price>81500</price>
+        <price>83700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900011</categoryId>
         <vendor>Apple</vendor>
@@ -24411,13 +24411,6 @@
       <offer id="a367d8f82e3da217" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 256 ГБ Desert, SIM + eSIM</name>
         <price>99400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900013</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ad82e623757f2b23" available="false">
-        <name>Смартфон Apple iPhone 16 Pro Max 256 ГБ White, SIM + eSIM</name>
-        <price>121200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -24704,7 +24697,7 @@
       </offer>
       <offer id="a05b1288b865d895" available="false">
         <name>Смартфон Apple iPhone Air 256 ГБ Black, eSIM</name>
-        <price>78500</price>
+        <price>78700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -24732,7 +24725,7 @@
       </offer>
       <offer id="a5500189b3646e51" available="false">
         <name>Смартфон Apple iPhone Air 512 ГБ Black, eSIM</name>
-        <price>91700</price>
+        <price>85700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -25419,13 +25412,6 @@
       <offer id="a57cf482a5c7f60e" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Glacier, eSIM</name>
         <price>189000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900020</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="ad6481ef84ae6445" available="false">
-        <name>Смартфон Apple iPhone 18 Pro Max 1 ТБ Silver, eSIM</name>
-        <price>192000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -26963,16 +26949,16 @@
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a33c73e213e1a725" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Midnight</name>
+      <offer id="a16044a3f7656e10" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Sky Blue</name>
         <price>139200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a16044a3f7656e10" available="false">
-        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Sky Blue</name>
-        <price>139200</price>
+      <offer id="a33c73e213e1a725" available="false">
+        <name>Ноутбук Apple MacBook Air 13″ M5 16 ГБ / 1 ТБ Midnight</name>
+        <price>139700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900028</categoryId>
         <vendor>Apple</vendor>
@@ -27546,7 +27532,7 @@
       </offer>
       <offer id="ad5385bda335cfff" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 24 ГБ / 1 ТБ Space Black</name>
-        <price>210800</price>
+        <price>211900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
@@ -27798,7 +27784,7 @@
       </offer>
       <offer id="a58c35af8df7365a" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Pro (15 CPU, 16 GPU) 24 ГБ / 1 ТБ Silver</name>
-        <price>281700</price>
+        <price>303500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
@@ -28342,8 +28328,8 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a0cabd25b97953b0" available="false">
-        <name>Смарт-часы Apple Watch Series 12 42 мм Natural, Natural Cel Milanese Loop</name>
+      <offer id="af8e5a6d2458771f" available="false">
+        <name>Смарт-часы Apple Watch Series 12 42 мм Natural, Milanese Loop</name>
         <price>83000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
@@ -28377,8 +28363,8 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="abc23f1a0cc9a938" available="false">
-        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Natural Cel Milanese Loop S/M</name>
+      <offer id="a3baafa695753eb8" available="false">
+        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Milanese Loop S/M</name>
         <price>39400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
@@ -28386,7 +28372,7 @@
       </offer>
       <offer id="a59186db7d3463ae" available="false">
         <name>Смарт-часы Apple Watch Series 12 46 мм Black, Sport Band M/L</name>
-        <price>41600</price>
+        <price>41100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
@@ -28489,9 +28475,9 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a63cdeb8e8862848" available="false">
-        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Natural Cel Milanese Loop M/L</name>
-        <price>80900</price>
+      <offer id="a8acaefc27fc757a" available="false">
+        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Milanese Loop M/L</name>
+        <price>90100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
@@ -28671,9 +28657,9 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a8111c2aec1bfcb7" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Cel Trail Loop M/L</name>
-        <price>74900</price>
+      <offer id="a4b92fb2828e64c4" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Trail Loop M/L</name>
+        <price>75400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
@@ -28685,8 +28671,8 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a0b083eb84f38c1b" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Cel Trail Loop S/M</name>
+      <offer id="a989dd2fd213123a" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Burgundy Trail Loop S/M</name>
         <price>76500</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
@@ -28748,15 +28734,15 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a475bcaa938d084d" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Milanese Loop L</name>
-        <price>85800</price>
+      <offer id="a48fe3f6adc59316" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Milanese Loop L</name>
+        <price>91800</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="ac0d228542dcb4dc" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Milanese Loop M</name>
+      <offer id="aa93b0c5800c8f8f" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Milanese Loop M</name>
         <price>92900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
@@ -28769,8 +28755,8 @@
         <categoryId>900041</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a2a278001ac49952" available="false">
-        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Black Cel Milanese Loop S</name>
+      <offer id="a5e0b9fd221ad426" available="false">
+        <name>Смарт-часы Apple Watch Ultra 4 49 мм Black, Milanese Loop S</name>
         <price>93900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900041</categoryId>
