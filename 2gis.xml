@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 18:57">
+<yml_catalog date="2026-11-27 01:00">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24711,7 +24711,7 @@
       </offer>
       <offer id="a0bc4974104f6bd3" available="false">
         <name>Смартфон Apple iPhone Air 256 ГБ White, eSIM</name>
-        <price>79500</price>
+        <price>81700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900016</categoryId>
         <vendor>Apple</vendor>
@@ -27539,14 +27539,14 @@
       </offer>
       <offer id="ae20af392c5d63f2" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 24 ГБ / 512 ГБ Space Black</name>
-        <price>190100</price>
+        <price>191800</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="aa272e30c0d17eca" available="false">
         <name>Ноутбук Apple MacBook Pro 14″ M5 24 ГБ / 1 ТБ Silver</name>
-        <price>208500</price>
+        <price>210000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900031</categoryId>
         <vendor>Apple</vendor>
