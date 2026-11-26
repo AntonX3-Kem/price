@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 12:53">
+<yml_catalog date="2026-11-26 18:57">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24445,7 +24445,7 @@
       </offer>
       <offer id="a3527cd901a5311c" available="false">
         <name>Смартфон Apple iPhone 16 Pro Max 512 ГБ Desert, SIM + eSIM</name>
-        <price>114400</price>
+        <price>115200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900013</categoryId>
         <vendor>Apple</vendor>
@@ -28384,13 +28384,6 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a3baafa695753eb8" available="false">
-        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Milanese Loop S/M</name>
-        <price>39400</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900038</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a59186db7d3463ae" available="false">
         <name>Смарт-часы Apple Watch Series 12 46 мм Black, Sport Band M/L</name>
         <price>41100</price>
@@ -28513,6 +28506,13 @@
       <offer id="a0e0fd5085ef4a06" available="false">
         <name>Смарт-часы Apple Watch Series 12 46 мм Gold, Gold Cel Milanese Loop S/M</name>
         <price>90700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900038</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a3baafa695753eb8" available="false">
+        <name>Смарт-часы Apple Watch Series 12 46 мм Natural, Milanese Loop S/M</name>
+        <price>93900</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
