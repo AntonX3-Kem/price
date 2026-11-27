@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-27 10:42">
+<yml_catalog date="2026-11-27 17:00">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -25080,37 +25080,30 @@
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a401a564102b3d8e" available="false">
+        <name>Смартфон Apple iPhone 18 Pro 256 ГБ Black, SIM + eSIM</name>
+        <price>123300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900019</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a22e1234053aab3a" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Burgundy, SIM + eSIM</name>
-        <price>124300</price>
+        <price>123300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="ad70dbbbd61bf2f4" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Glacier, SIM + eSIM</name>
-        <price>124300</price>
+        <price>123300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="adbf0685560a5ca5" available="false">
         <name>Смартфон Apple iPhone 18 Pro 256 ГБ Silver, SIM + eSIM</name>
-        <price>124300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900019</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a401a564102b3d8e" available="false">
-        <name>Смартфон Apple iPhone 18 Pro 256 ГБ Black, SIM + eSIM</name>
-        <price>125300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900019</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a345a8b9f3879918" available="false">
-        <name>Смартфон Apple iPhone 18 Pro 512 ГБ Black, eSIM</name>
-        <price>136300</price>
+        <price>123300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25118,6 +25111,13 @@
       <offer id="a74dff49b31893b6" available="false">
         <name>Смартфон Apple iPhone 18 Pro 512 ГБ Glacier, eSIM</name>
         <price>137300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900019</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a345a8b9f3879918" available="false">
+        <name>Смартфон Apple iPhone 18 Pro 512 ГБ Black, eSIM</name>
+        <price>138200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25138,14 +25138,14 @@
       </offer>
       <offer id="abff1115d2f3a933" available="false">
         <name>Смартфон Apple iPhone 18 Pro 512 ГБ Black, SIM + eSIM</name>
-        <price>148200</price>
+        <price>147200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a7251c1fb77a2089" available="false">
         <name>Смартфон Apple iPhone 18 Pro 512 ГБ Burgundy, SIM + eSIM</name>
-        <price>148200</price>
+        <price>147200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25159,7 +25159,7 @@
       </offer>
       <offer id="a8f1a871be695206" available="false">
         <name>Смартфон Apple iPhone 18 Pro 512 ГБ Silver, SIM + eSIM</name>
-        <price>150200</price>
+        <price>152200</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25194,28 +25194,28 @@
       </offer>
       <offer id="a5e47220d3a3c200" available="false">
         <name>Смартфон Apple iPhone 18 Pro 1 ТБ Black, SIM + eSIM</name>
-        <price>189000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900019</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a863d44414f4ec48" available="false">
-        <name>Смартфон Apple iPhone 18 Pro 1 ТБ Glacier, SIM + eSIM</name>
-        <price>190000</price>
+        <price>188000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="aa331636cb228b7e" available="false">
         <name>Смартфон Apple iPhone 18 Pro 1 ТБ Burgundy, SIM + eSIM</name>
-        <price>191000</price>
+        <price>188000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900019</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a863d44414f4ec48" available="false">
+        <name>Смартфон Apple iPhone 18 Pro 1 ТБ Glacier, SIM + eSIM</name>
+        <price>188000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a71ebd715e3f7232" available="false">
         <name>Смартфон Apple iPhone 18 Pro 1 ТБ Silver, SIM + eSIM</name>
-        <price>194800</price>
+        <price>188000</price>
         <currencyId>RUB</currencyId>
         <categoryId>900019</categoryId>
         <vendor>Apple</vendor>
@@ -25283,6 +25283,13 @@
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="aee1bf3a17a8ac6b" available="false">
+        <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Burgundy, eSIM</name>
+        <price>123300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900020</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a5b615ea992d1a73" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Glacier, eSIM</name>
         <price>123300</price>
@@ -25293,13 +25300,6 @@
       <offer id="a2f12fa2f34a3387" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Silver, eSIM</name>
         <price>123300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900020</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="aee1bf3a17a8ac6b" available="false">
-        <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Burgundy, eSIM</name>
-        <price>125300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25320,7 +25320,7 @@
       </offer>
       <offer id="a5193ab072b12308" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 256 ГБ Burgundy, SIM + eSIM</name>
-        <price>138200</price>
+        <price>137300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -25376,14 +25376,14 @@
       </offer>
       <offer id="a051f163c4368b31" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Glacier, SIM + eSIM</name>
-        <price>162100</price>
+        <price>161100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
       </offer>
       <offer id="a9ab4b5ffd85c670" available="false">
         <name>Смартфон Apple iPhone 18 Pro Max 512 ГБ Burgundy, SIM + eSIM</name>
-        <price>163100</price>
+        <price>162100</price>
         <currencyId>RUB</currencyId>
         <categoryId>900020</categoryId>
         <vendor>Apple</vendor>
@@ -27873,34 +27873,6 @@
         <categoryId>900032</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="afb2613d2195f9c7" available="false">
-        <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 4 ТБ Silver</name>
-        <price>780900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900032</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a8518100a7416fe9" available="false">
-        <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 4 ТБ Space Black</name>
-        <price>780900</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900032</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a0c3dd16bf07d877" available="false">
-        <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 4 ТБ Silver, нанотекстурное стекло</name>
-        <price>791800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900032</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
-      <offer id="a3c08ce64deea1d0" available="false">
-        <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 4 ТБ Space Black, нанотекстурное стекло</name>
-        <price>791800</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900032</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a9aaaaa59c1f9dc2" available="false">
         <name>Ноутбук Apple MacBook Pro 16″ M5 Max (18 CPU, 40 GPU) 128 ГБ / 8 ТБ Silver</name>
         <price>949800</price>
@@ -28132,13 +28104,6 @@
         <categoryId>900037</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a1cc4bcf680ca2f1" available="false">
-        <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band S/M</name>
-        <price>33200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900037</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a31b06e4e978475a" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Jet Black, Black Sport Band S/M</name>
         <price>34000</price>
@@ -28149,6 +28114,13 @@
       <offer id="afcfe6463631c65d" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Silver, Purple Sport Band M/L</name>
         <price>34000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900037</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a1cc4bcf680ca2f1" available="false">
+        <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band S/M</name>
+        <price>34300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900037</categoryId>
         <vendor>Apple</vendor>
