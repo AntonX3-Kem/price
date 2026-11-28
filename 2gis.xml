@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-28 11:14">
+<yml_catalog date="2026-11-28 17:18">
   <shop>
     <name>A-Service42</name>
     <company>A-Service42</company>
@@ -24465,13 +24465,6 @@
         <categoryId>900014</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a4ebef6f9d8907ae" available="false">
-        <name>Смартфон Apple iPhone 17e 256 ГБ Pink, 2 SIM</name>
-        <price>65600</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900014</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="a160dcf77e7aa7d5" available="false">
         <name>Смартфон Apple iPhone 17e 256 ГБ Pink, SIM + eSIM</name>
         <price>67800</price>
@@ -24643,6 +24636,13 @@
       <offer id="af15996145b6b50e" available="false">
         <name>Смартфон Apple iPhone 17 512 ГБ Lavender, SIM + eSIM</name>
         <price>102400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900015</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
+      <offer id="a7d9cef1b5b22a42" available="false">
+        <name>Смартфон Apple iPhone 17 512 ГБ White, SIM + eSIM</name>
+        <price>103400</price>
         <currencyId>RUB</currencyId>
         <categoryId>900015</categoryId>
         <vendor>Apple</vendor>
@@ -28065,7 +28065,7 @@
       </offer>
       <offer id="a717ae9661fd5949" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band M/L</name>
-        <price>32400</price>
+        <price>33300</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
@@ -28084,13 +28084,6 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
-      <offer id="a1cc4bcf680ca2f1" available="false">
-        <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band S/M</name>
-        <price>34300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>900038</categoryId>
-        <vendor>Apple</vendor>
-      </offer>
       <offer id="ad12dda4dda540ff" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Silver, Purple Sport Band S/M</name>
         <price>34900</price>
@@ -28105,9 +28098,16 @@
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
       </offer>
+      <offer id="a1cc4bcf680ca2f1" available="false">
+        <name>Смарт-часы Apple Watch Series 11 42 мм Space Gray, Black Sport Band S/M</name>
+        <price>35400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>900038</categoryId>
+        <vendor>Apple</vendor>
+      </offer>
       <offer id="a6aecd74c2cc857e" available="false">
         <name>Смарт-часы Apple Watch Series 11 42 мм Rose Gold, Sport Band S/M</name>
-        <price>35600</price>
+        <price>36700</price>
         <currencyId>RUB</currencyId>
         <categoryId>900038</categoryId>
         <vendor>Apple</vendor>
